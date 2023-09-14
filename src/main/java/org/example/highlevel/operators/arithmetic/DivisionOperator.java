@@ -1,7 +1,7 @@
-package org.example.calculator.operators.arithmetic;
+package org.example.highlevel.operators.arithmetic;
 
-import org.example.calculator.operators.SupportOperator;
-import org.example.calculator.operators.PositiveNumber;
+import org.example.highlevel.operators.SupportOperator;
+import org.example.highlevel.operators.PositiveNumber;
 
 public class DivisionOperator implements SupportOperator {
 

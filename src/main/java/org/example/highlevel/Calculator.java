@@ -1,10 +1,10 @@
-package org.example.calculator;
+package org.example.highlevel;
 
-import org.example.calculator.operators.*;
-import org.example.calculator.operators.arithmetic.AdditionOperator;
-import org.example.calculator.operators.arithmetic.DivisionOperator;
-import org.example.calculator.operators.arithmetic.MultiplicationOperator;
-import org.example.calculator.operators.arithmetic.SubtractionOperator;
+import org.example.highlevel.operators.*;
+import org.example.highlevel.operators.arithmetic.AdditionOperator;
+import org.example.highlevel.operators.arithmetic.DivisionOperator;
+import org.example.highlevel.operators.arithmetic.MultiplicationOperator;
+import org.example.highlevel.operators.arithmetic.SubtractionOperator;
 
 import java.util.List;
 

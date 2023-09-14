@@ -1,4 +1,4 @@
-package org.example.calculator.operators;
+package org.example.highlevel.operators;
 
 public interface SupportOperator {
     boolean supports(String operator);

@@ -1,4 +1,4 @@
-package org.example.calculator.operators;
+package org.example.highlevel.operators;
 
 public class PositiveNumber {
     private static final String ZERO_OR_NEGATIVE_NUMBER_EXCEPTION_MESSAGE = "Cannot pass 0 or negative numbers";
